@@ -1,5 +1,5 @@
 # url-utils
-
+[![Build Status](https://travis-ci.org/pinkdoremi/url-utils.svg?branch=master)](https://travis-ci.org/pinkdoremi/url-utils)
 ## addQueryHashToURL
     addQueryHashToURL('asdfasdf', {
         '哇哈哈': 'asdf'
