@@ -1,0 +1,21 @@
+{
+  "name": "url-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha --reporter spec",
+    "pretest": "npm run lint"
+  },
+  "keywords": [
+    "url",
+    "param"
+  ],
+  "author": "8000",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "~2.4.0",
+    "mocha": "^2.4.5"
+  }
+}
