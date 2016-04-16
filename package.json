@@ -17,5 +17,9 @@
   "devDependencies": {
     "eslint": "~2.4.0",
     "mocha": "^2.4.5"
-  }
+},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pinkdoremi/url-utils.git"
+      }
 }
